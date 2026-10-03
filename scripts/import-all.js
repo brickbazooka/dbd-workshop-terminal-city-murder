@@ -6,7 +6,7 @@ const IMPORT_CONFIG = [
 	{ name: 'vehicles', module: './import-vehicles.js' },
 	{ name: 'memberships', module: './import-memberships.js' },
 ];
-const DATABASE_NAME = 'clmystery';
+const DATABASE_NAME = 'tcpd';
 
 async function runAll(config = IMPORT_CONFIG) {
 	for (const item of config) {
