@@ -1,0 +1,374 @@
+clmystery\mystery\crimescene:
+   9213: CLUE: Footage from an ATM security camera is blurry but shows that the perpetrator is a tall male, at least 6'.
+   9370: CLUE: Found a wallet believed to belong to the killer: no ID, just loose change, and membership cards for AAA, Delta SkyMiles, the local library, and the Museum of Bash History. The cards are totally untraceable and have no name, for some reason.
+  11002: CLUE: Questioned the barista at the local coffee shop. He said a woman left right before they heard the shots. The name on her latte was Annabel, she had blond spiky hair and a New Zealand accent.
+
+---
+
+---
+
+License Plate L337..9\nMake: Honda\nColor: Blue
+License Plate L337..9\nMake: Honda\nColor: Blue\n.+\nHeight: 6'
+
+---
+
+License Plate L337QE9
+Make: Honda
+Color: Blue
+Owner: Erika Owens
+Height: 6'5"
+Weight: 220 lbs
+
+Erika Owens F 56 Trapelo Street, line 98
+
+INTERVIEW #5455315
+
+Owens has an alibi for the morning in question, she was in Toronto for the Mozilla All Hands Meeting.
+Multiple sources, including a person in a fox costume, corroborate this.
+Not a suspect.
+
+---
+
+License Plate L337539
+Make: Honda
+Color: Blue
+Owner: Aron Pilhofer
+Height: 5'3"
+Weight: 198 lbs
+
+Aron Pilhofer M 16 Claybourne Street, line 145
+
+INTERVIEW #1767435
+
+Too short to match the camera footage.
+Pilhofer is not considered a suspect.
+
+---
+
+License Plate L337369
+Make: Honda
+Color: Blue
+Owner: Heather Billings
+Height: 5'2"
+Weight: 244 lbs
+
+Heather Billings F 38 Culbert Street, line 19
+
+INTERVIEW #2939888
+
+Billings should not be considered a suspect, she is too short to match the camera footage and the killer is believed to be male.
+
+---
+
+License Plate L337DV9
+Make: Honda
+Color: Blue
+Owner: Joe Germuska
+Height: 6'2"
+Weight: 164 lbs
+
+Joe Germuska M 65 Plainfield Street, line 275
+
+INTERVIEW #29741223
+
+Should not be considered a suspect, has no SkyMiles membership and has never been a member of the Museum of Bash History.
+
+---
+
+License Plate L3375A9
+Make: Honda
+Color: Blue
+Owner: Jeremy Bowers
+Height: 6'1"
+Weight: 204 lbs
+
+Jeremy Bowers M 34 Dunstable Road, line 284
+
+INTERVIEW #9620713
+
+Home appears to be empty, no answer at the door.
+
+After questioning neighbors, appears that the occupant may have left for a trip recently.
+
+Considered a suspect until proven otherwise, but would have to eliminate other suspects to confirm.
+
+---
+
+License Plate L337WR9
+Make: Honda
+Color: Blue
+Owner: Jacqui Maher
+Height: 6'2"
+Weight: 130 lbs
+
+Jacqui Maher F 40 Andover Road, line 224
+
+INTERVIEW #904020
+
+Maher is not considered a suspect.
+Video evidence confirms that she was away at a professional soccer game on the morning in question, even though it was a workday.
+
+---
+
+---
+
+Accounted (6):
+
+clmystery\mystery\streets\Andover_Road:
+224: SEE INTERVIEW #904020
+clmystery\mystery\streets\Claybourne_Street:
+145: SEE INTERVIEW #1767435
+clmystery\mystery\streets\Culbert_Street:
+19: SEE INTERVIEW #2939888
+clmystery\mystery\streets\Dunstable_Road:
+284: SEE INTERVIEW #9620713
+clmystery\mystery\streets\Plainfield_Street:
+275: SEE INTERVIEW #29741223
+clmystery\mystery\streets\Trapelo_Street:
+98: SEE INTERVIEW #5455315
+
+---
+
+---
+
+The Annabel Lot (4):
+
+clmystery\mystery\streets\Buckingham_Place:
+179: SEE INTERVIEW #699607
+Interviewed Ms. Church at 2:04 pm.
+Witness stated that she did not see anyone she could identify as the shooter, that she ran away as soon as the shots were fired.
+However, she reports seeing the car that fled the scene.
+Describes it as a blue Honda, with a license plate that starts with "L337" and ends with "9"
+Annabel Church F 38 Buckingham Place, line 179
+License Plate L2E48EF
+Make: BMW
+Color: Orange
+Owner: Annabel Church
+Height: 5'5"
+Weight: 201 lbs
+
+clmystery\mystery\streets\Haley_Street:
+176: SEE INTERVIEW #871877
+Mr. Fuglsang is male and has brown hair.
+Not the witness from the cafe.
+Annabel Fuglsang M 40 Haley Street, line 176
+License Plate 20VVU2P
+Make: Mazda
+Color: Pink
+Owner: Annabel Fuglsang
+Height: 5'11"
+Weight: 241 lbs
+
+clmystery\mystery\streets\Hart_Place:
+40: SEE INTERVIEW #47246024
+Ms. Sun has brown hair and is not from New Zealand.
+Not the witness from the cafe.
+Annabel Sun F 26 Hart Place, line 40
+License Plate 0O27BTD
+Make: Fiat
+Color: Yellow
+Owner: Annabel Sun
+Height: 5'0"
+Weight: 232 lbs
+
+clmystery\mystery\streets\Mattapan_Street:
+173: SEE INTERVIEW #9437737
+Doesn't appear to be the witness from the cafe, who is female.
+Oluwasegun Annabel M 37 Mattapan Street, line 173
+License Plate 9R7TTGF
+Make: Volkswagen
+Color: Yellow
+Owner: Oluwasegun Annabel
+Height: 5'1"
+Weight: 240 lbs
+
+---
+
+---
+
+Other Suspects (15):
+
+clmystery\mystery\streets\Alpine_Street:
+79: SEE INTERVIEW #862173
+Matches our profile, except car does not match witness accounts.
+Does Waite own a second car?
+If so, he may be a suspect.
+Otherwise is not a suspect.
+Matt Waite M 24 Alpine Street, line 79
+License Plate L337GB9
+Make: Toyota
+Color: Blue
+Owner: Matt Waite
+Height: 6'1"
+Weight: 190 lbs
+
+clmystery\mystery\streets\Cardinal_Medeiros_Avenue:
+71: SEE INTERVIEW #141030
+Harris does not match the profile from eyewitness accounts.
+Not a suspect.
+Jacob Harris M 51 Cardinal Medeiros Avenue, line 71
+License Plate YTGTA5R
+Make: Nissan
+Color: Blue
+Owner: Jacob Harris
+Height: 5'5"
+Weight: 224 lbs
+
+clmystery\mystery\streets\Cardington_Street:
+252: SEE INTERVIEW #55435298
+Chow is not considered a suspect.
+She does not match the profile gathered from camera footage, and multiple witnesses place her in Washington, DC at the time of the shooting.
+Emily Chow F 20 Cardington Street, line 252
+License Plate 68CVHT5
+Make: Honda
+Color: Blue
+Owner: Emily Chow
+Height: 5'7"
+Weight: 191 lbs
+
+clmystery\mystery\streets\Dalton_Street:
+63: SEE INTERVIEW #706620
+Larson was in London on the morning in question, according to travel records.
+The color of his Honda also doesn't match witness accounts from the shooting.
+Not a suspect.
+Jeff Larson M 23 Dalton Street, line 63
+License Plate K0LDDGB
+Make: Honda
+Color: Green
+Owner: Jeff Larson
+Height: 6'5"
+Weight: 178 lbs
+
+clmystery\mystery\streets\Fayston_Street:
+134: SEE INTERVIEW #3804339
+Park's car is red, not blue, and the person on the camera is presumed to be male.
+Not considered a suspect.
+Katie Park F 49 Fayston Street, line 134
+License Plate L337ZR9
+Make: Honda
+Color: Red
+Owner: Katie Park
+Height: 6'2"
+Weight: 189 lbs
+
+clmystery\mystery\streets\Harbor_Point_Boulevard:
+183: SEE INTERVIEW #628618
+Fits the profile, except for the make of his car.
+Should be considered a suspect if and only if there is evidence Boyer owns a second car.
+Brian Boyer M 39 Harbor Point Boulevard, line 183
+License Plate L337OI9
+Make: Jaguar
+Color: Blue
+Owner: Brian Boyer
+Height: 6'6"
+Weight: 201 lbs
+
+clmystery\mystery\streets\Lovis_Street:
+55: SEE INTERVIEW #56892213
+Questioned Daniel Sinker about his whereabouts yesterday.
+He's tall enough to be a suspect, but he drives a Subaru, not a Honda, and the license plate doesn't match.
+Dan Sinker M 20 Lovis Street, line 55
+License Plate 6CXZI94
+Make: Subaru
+Color: Blue
+Owner: Dan Sinker
+Height: 6'5"
+Weight: 192 lbs
+
+clmystery\mystery\streets\Manton_Terrace:
+83: SEE INTERVIEW #30259493
+Shaw knew the victim, but has never been a SkyMiles member and has a solid alibi for the morning in question.
+Not considered a suspect.
+Al Shaw M 27 Manton Terrace, line 83
+License Plate L337X19
+Make: Fiat
+Color: Blue
+Owner: Al Shaw
+Height: 6'5"
+Weight: 240 lbs
+
+clmystery\mystery\streets\Richard_Avenue:
+20: SEE INTERVIEW #9346061
+Not considered a suspect.
+Too short to match the camera footage, and female.
+Tiff Fehr F 20 Richard Avenue, line 20
+License Plate X4UQ2ON
+Make: Honda
+Color: Blue
+Owner: Tiff Fehr
+Height: 5'4"
+Weight: 133 lbs
+
+clmystery\mystery\streets\Rosaria_Street:
+42: SEE INTERVIEW #476744
+Too short to be a suspect, and car doesn't match the description.
+Ben Welsh M 45 Rosaria Street, line 42
+License Plate ART2AOH
+Make: Volvo
+Color: Blue
+Owner: Ben Welsh
+Height: 5'5"
+Weight: 247 lbs
+
+clmystery\mystery\streets\Rozella_Street:
+48: SEE INTERVIEW #174898
+The license plate of Keefe's Mazda matches the witness's description, but the make is wrong, and Keefe has never been a SkyMiles member.
+Shouldn't be considered a suspect.
+John Keefe M 43 Rozella Street, line 48
+License Plate L337GX9
+Make: Mazda
+Color: Orange
+Owner: John Keefe
+Height: 6'4"
+Weight: 185 lbs
+
+clmystery\mystery\streets\Senders_Court:
+287: SEE INTERVIEW #290346
+Drives a similar car to the description.
+Is a SkyMiles, TCPL, Museum of Bash History, and AAA member.
+Bostock is 6' 4", easily tall enough to match the camera footage.
+However, upon questioning, Bostock can prove that he was out of town on the morning of the murder, multiple witnesses and credit card transactions confirm.
+Mike Bostock M 45 Senders Court, line 287
+License Plate L337P89
+Make: Honda
+Color: Teal
+Owner: Mike Bostock
+Height: 6'4"
+Weight: 173 lbs
+
+clmystery\mystery\streets\Terrace_Place:
+162: SEE INTERVIEW #82705993
+Klein is too short to match the ATM footage.
+Not considered a suspect.
+Scott Klein M 44 Terrace Place, line 162
+License Plate 14S4L5M
+Make: Cadillac
+Color: Blue
+Owner: Scott Klein
+Height: 5'5"
+Weight: 203 lbs
+
+clmystery\mystery\streets\Topeka_Street:
+66: SEE INTERVIEW #737609
+Keller's car matches the description, but not his license plate.
+Keller is also shorter than the killer.
+Not a suspect.
+Chris Keller M 19 Topeka Street, line 66
+License Plate FFRM7XI
+Make: Honda
+Color: Blue
+Owner: Chris Keller
+Height: 5'2"
+Weight: 151 lbs
+
+clmystery\mystery\streets\Wentworth_Street:
+92: SEE INTERVIEW #79667499
+Miranda fits the profile, but is female.
+Barring a clever disguise, should not be considered a suspect.
+Miranda Mulligan F 48 Wentworth Street, line 92
+License Plate L3373U9
+Make: Ford
+Color: Blue
+Owner: Miranda Mulligan
+Height: 6'6"
+Weight: 156 lbs
