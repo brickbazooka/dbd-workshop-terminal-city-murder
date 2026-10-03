@@ -1,0 +1,17 @@
+{
+	"name": "The Terminal City Murder",
+	"author": "TCPD Cop, Badge #8080",
+	"difficulty": "Easy",
+	"concepts": ["JOIN", "GROUP BY", "HAVING"],
+	"database": "tcpd.sqlite",
+	"lockedTables": ["people", "vehicles", "memberships"],
+	"evidenceFiles": ["atm_footage.png", "wallet_contents.png"],
+	"previewImage": "police report.png",
+	"culpritName": "Jeremy Bowers",
+	"culpritArrestImage": "culprit.png",
+	"arrestWarrant": "warrant.png",
+	"voiceMessage": "Message from TCPD",
+	"voiceMessageTranscript": "Message from TCPD (Transcript).txt",
+	"queryHints": [],
+	"caseHints": []
+}
