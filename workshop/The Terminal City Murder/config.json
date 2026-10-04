@@ -2,16 +2,39 @@
 	"name": "The Terminal City Murder",
 	"author": "TCPD Cop, Badge #8080",
 	"difficulty": "Easy",
-	"concepts": ["JOIN", "GROUP BY", "HAVING"],
-	"database": "tcpd.sqlite",
-	"lockedTables": ["people", "vehicles", "memberships"],
-	"evidenceFiles": ["atm_footage.png", "wallet_contents.png"],
+	"concepts": [
+		"JOIN",
+		"GROUP BY",
+		"HAVING"
+	],
+	"database": "tcpd",
+	"lockedTables": [
+		"people",
+		"vehicles",
+		"memberships"
+	],
+	"evidenceFiles": [
+		"atm_footage.png",
+		"wallet_contents.png"
+	],
 	"previewImage": "police report.png",
 	"culpritName": "Jeremy Bowers",
 	"culpritArrestImage": "culprit.png",
 	"arrestWarrant": "warrant.png",
 	"voiceMessage": "Message from TCPD",
 	"voiceMessageTranscript": "Message from TCPD (Transcript).txt",
-	"queryHints": [],
-	"caseHints": []
+	"queryHints": [
+		"Join people and vehicles using\nname and owner.",
+		"Filter for a male driving a\nblue Honda.",
+		"Join memberships to each\nremaining suspect.",
+		"Group the results by member.",
+		"Use HAVING to find the member\nlinked to all four groups."
+	],
+	"caseHints": [
+		"Annabel saw a male suspect in a\nblue Honda.",
+		"Use the vehicle records to find\nmatching owners.",
+		"Check those names against the\nmembership records.",
+		"Focus on AAA, Delta SkyMiles,\nTerminal City Library, and\nMuseum of Bash History.",
+		"The culprit belongs to all four\norganisations."
+	]
 }
