@@ -58,8 +58,8 @@ async function confirmOverwrite(databasePath) {
 	}
 }
 
-async function importRecords({ tableName, columns, records, databaseName = tableName }) {
-	const databasePath = path.resolve(__dirname, '..', 'database', `${databaseName}.sqlite`);
+async function importRecords({ tableName, columns, records, databaseName = tableName, extension = 'sqlite' }) {
+	const databasePath = path.resolve(__dirname, '..', 'database', `${databaseName}.${extension}`);
 	const createSql = buildCreateTableSql(tableName, columns);
 	const insertSql = buildInsertSql(tableName, columns);
 	const databaseAlreadyExists = fs.existsSync(databasePath);
@@ -86,7 +86,9 @@ async function importRecords({ tableName, columns, records, databaseName = table
 		database.exec('COMMIT');
 		transactionStarted = false;
 		const action = databaseAlreadyExists ? 'Update' : 'Created';
-		console.log(`${action} ${path.basename(databasePath)} with ${records.length} ${tableName} records at ${path.dirname(databasePath)}.`);
+		console.log(
+			`${action} ${path.basename(databasePath)} with ${records.length} ${tableName} records at ${path.dirname(databasePath)}.`,
+		);
 	} catch (error) {
 		if (transactionStarted) {
 			database.exec('ROLLBACK');

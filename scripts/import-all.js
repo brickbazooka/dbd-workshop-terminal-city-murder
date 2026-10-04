@@ -17,7 +17,7 @@ async function runAll(config = IMPORT_CONFIG) {
 		}
 
 		console.log(`Importing ${item.name}...`);
-		await importer.run({ databaseName: DATABASE_NAME });
+		await importer.run({ databaseName: DATABASE_NAME, extension: '' });
 	}
 }
 

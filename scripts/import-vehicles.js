@@ -2,7 +2,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const { importRecords } = require('./db');
 
-function run({ databaseName } = {}) {
+function run({ databaseName, extension } = {}) {
 	const workspaceRoot = path.resolve(__dirname, '..');
 	const sourcePath = path.join(workspaceRoot, 'clmystery', 'mystery', 'vehicles');
 
@@ -54,6 +54,7 @@ function run({ databaseName } = {}) {
 		],
 		records,
 		databaseName,
+		extension,
 	});
 }
 
